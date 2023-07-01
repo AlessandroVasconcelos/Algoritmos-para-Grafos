@@ -1,10 +1,10 @@
 # Algoritmos para Grafos - UVA.
 
 ## Ementa:
-- Conceitos básicos: Grafos, Figuras de grafos grandes, Estruturas de dados para grafos, Grafos aleatórios, Caminhos e ciclos em grafos e Grafos topológicos
+- Conceitos básicos: Grafos, Figuras de grafos grandes, Estruturas de dados para grafos, Grafos aleatórios, Caminhos e ciclos em grafos e Grafos topológicos.
 - Busca em profundidade: Acessibilidade, Busca em profundidade (DFS), Florestas DFS, DFS e pós-ordem e Ciclos e dags.
 - Busca em largura e distâncias: Busca em largura (BFS), Caminhos de comprimento mínimo, Algoritmo de caminhos mínimos.
-- Florestas, árvores, conexão: Componentes conexas, Circuitos e florestas, Grafos aresta-biconexos, Componentes aresta-biconexas.
+- Florestas, árvores e conexão: Componentes conexas, Circuitos e florestas, Grafos aresta-biconexos e Componentes aresta-biconexas.
 
 ## Professor:
 José Alex Pontes Martins.
