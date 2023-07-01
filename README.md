@@ -10,7 +10,7 @@
 José Alex Pontes Martins.
 
 ## Bibliografia Básica:
-1. FEOFILOFF, P. Algoritmos para Grafos em C via Sedgewick. Disponível em: < (https://www.ime.usp.br/~pf/algoritmos_para_grafos/) >.
+1. FEOFILOFF, P. Algoritmos para Grafos em C via Sedgewick. Disponível em: https://www.ime.usp.br/~pf/algoritmos_para_grafos/.
 2. SEDGEWICK, R. Algorithms in C (part 5: Graph Algorithms). 3. ed. Addison-Wesley/Longman, 2002.
 3. CORMEN, T. H., et al. Algoritmos: Teoria e Prática. 2. ed. São Paulo: Elsevier, 2002.
  
