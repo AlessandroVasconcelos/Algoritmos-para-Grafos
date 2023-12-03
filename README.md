@@ -1,4 +1,4 @@
-# Algoritmos para Grafos - UVA.
+# Algoritmos para Grafos - Ciências da Computação - UVA.
 
 ## Ementa:
 - Conceitos básicos: Grafos, Figuras de grafos grandes, Estruturas de dados para grafos, Grafos aleatórios, Caminhos e ciclos em grafos e Grafos topológicos.
