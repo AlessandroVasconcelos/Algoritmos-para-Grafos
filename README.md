@@ -1,4 +1,4 @@
-# Algoritmos para Grafos - Ciências da Computação - UVA.
+# Algoritmos para Grafos - Ciências da Computação - UVA
 
 ## Ementa:
 - Conceitos básicos: Grafos, Figuras de grafos grandes, Estruturas de dados para grafos, Grafos aleatórios, Caminhos e ciclos em grafos e Grafos topológicos.
@@ -14,6 +14,6 @@ José Alex Pontes Martins.
 2. SEDGEWICK, R. Algorithms in C (part 5: Graph Algorithms). 3. ed. Addison-Wesley/Longman, 2002.
 3. CORMEN, T. H., et al. Algoritmos: Teoria e Prática. 2. ed. São Paulo: Elsevier, 2002.
  
-## Linguagem e IDE Utilizada:
+## 🛠️ Tecnologias Utilizadas:
 <a href = "https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"><img src="https://img.shields.io/badge/-%23333?style=for-the-badge&logo=c&logoColor=%22red%22%20arget=%22_blank"></a>
 <a href = "https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23333?style=for-the-badge&logo=visual-studio-code&logoColor=%22red%22%20arget=%22_blank"></a>
