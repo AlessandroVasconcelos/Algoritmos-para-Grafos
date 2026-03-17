@@ -1,15 +1,16 @@
-# Algoritmos para Grafos - Ciências da Computação - UVA
+# Algoritmos para Grafos
+Este repositório contém as implementações, exercícios e práticas de laboratório desenvolvidos durante a disciplina de Algoritmos para Grafos do curso de Ciência da Computação na Universidade Estadual Vale do Acaraú (UVA).
 
-## Ementa:
+## 📌 Ementa:
 - Conceitos básicos: Grafos, Figuras de grafos grandes, Estruturas de dados para grafos, Grafos aleatórios, Caminhos e ciclos em grafos e Grafos topológicos.
 - Busca em profundidade: Acessibilidade, Busca em profundidade (DFS), Florestas DFS, DFS e pós-ordem e Ciclos e dags.
 - Busca em largura e distâncias: Busca em largura (BFS), Caminhos de comprimento mínimo, Algoritmo de caminhos mínimos.
 - Florestas, árvores e conexão: Componentes conexas, Circuitos e florestas, Grafos aresta-biconexos e Componentes aresta-biconexas.
 
-## Professor:
+## 👨‍🏫 Professor:
 José Alex Pontes Martins.
 
-## Bibliografia Básica:
+## 📚 Bibliografia:
 1. FEOFILOFF, P. Algoritmos para Grafos em C via Sedgewick. Disponível em: https://www.ime.usp.br/~pf/algoritmos_para_grafos/.
 2. SEDGEWICK, R. Algorithms in C (part 5: Graph Algorithms). 3. ed. Addison-Wesley/Longman, 2002.
 3. CORMEN, T. H., et al. Algoritmos: Teoria e Prática. 2. ed. São Paulo: Elsevier, 2002.
