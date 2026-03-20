@@ -17,4 +17,4 @@ José Alex Pontes Martins.
  
 ## 🛠️ Tecnologias Utilizadas:
 <a href = "https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"><img src="https://img.shields.io/badge/-%23333?style=for-the-badge&logo=c&logoColor=%22red%22%20arget=%22_blank"></a>
-<a href = "https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23333?style=for-the-badge&logo=visual-studio-code&logoColor=%22red%22%20arget=%22_blank"></a>
+<a href = "https://code.visualstudio.com/"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"></a>
